@@ -1,0 +1,22 @@
+.add_heading_font {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.make_red {
+    color: red;
+}
+
+.add_font {
+    font-family: 'Rubik', sans-serif;
+}
+
+div {
+    background: gray;
+    width: 50%;
+    border-radius: 20px;
+    height: 100px;
+}
+
+.make_blue {
+    color: blue
+}
